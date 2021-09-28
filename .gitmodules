@@ -1,0 +1,6 @@
+[submodule "CutePlusPlus"]
+	path = CutePlusPlus
+	url = https://github.com/thinkquad4/CutePlusPlus.git
+[submodule "PhiEditor"]
+	path = PhiEditor
+	url = https://github.com/thinkquad4/PhiEditor.git
